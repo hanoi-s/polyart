@@ -1,0 +1,56 @@
+
+---Downloaded files---
+The import files for: Own Store Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/polyart
+Data file = C:\xampp\htdocs\polyart/wp-content/uploads/2021/09/demo-content-import-file_2021-09-07__05-15-05.xml
+Widget file = C:\xampp\htdocs\polyart/wp-content/uploads/2021/09/demo-widgets-import-file_2021-09-07__05-15-05.json
+Customizer file = C:\xampp\htdocs\polyart/wp-content/uploads/2021/09/demo-customizer-import-file_2021-09-07__05-15-05.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Topbar Sidebar : 
+
+Custom HTML - No Title - Widget already exists
+
+Blog Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+
+WooCommerce Sidebar : 
+
+Product Search - No Title - Widget already exists
+Cart - Cart - Widget already exists
+Filter Products by Price - Filter by price - Widget already exists
+Filter Products by Attribute - Filter by - Widget already exists
+Filter Products by Rating - Average rating - Widget already exists
+Product Categories - Product categories - Widget already exists
+Product Tag Cloud - Product tags - Widget already exists
+
+Footer Column1 : 
+
+Navigation Menu - Quick Links - Widget already exists
+
+Footer Column2 : 
+
+Products list - Products - Widget already exists
+
+Footer Column3 : 
+
+Custom HTML - No Title - Widget already exists
+Product Tag Cloud - Product tags - Widget already exists
+Navigation Menu - Follow Us - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
