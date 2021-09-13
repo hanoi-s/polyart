@@ -172,3 +172,13 @@ require_once ASTRA_THEME_DIR . 'inc/core/markup/class-astra-markup.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-filters.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-hooks.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
+
+/**
+ * Added to change the logout link from the vendor dashboard.
+ * It works and I'm quite amazed.
+ */
+add_action('wp_logout','wcmp_logout_redirect');
+function wcmp_logout_redirect(){
+    wp_redirect( "http://localhost/polyart/login/" );
+    exit;
+}
