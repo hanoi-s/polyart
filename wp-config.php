@@ -1,4 +1,6 @@
 <?php
+define('WP_SITEURL', 'http://localhost/polyart/');
+define('WP_HOME', 'http://localhost/polyart/');
 /**
  * The base configuration for WordPress
  *
